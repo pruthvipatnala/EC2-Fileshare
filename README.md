@@ -17,6 +17,6 @@ Inputs needed -
 2) User name 
 - Ex: ssh -i "abc.pem" ubuntu@ec2-54-162-41-176.compute-1.amazonaws.com (User name is 'ubuntu')
 3) Name of the pem file with the .pem extension.
-- ExL abc.pem
+- Ex: abc.pem
 
 > Note : Works only for files.
